@@ -1,5 +1,5 @@
-## TEMAT: Metody statystyczne w analizie szeregów czasowych (time series)
-# Szymon Frelich, Bartosz Włodarski
+# TEMAT: Metody statystyczne w analizie szeregów czasowych (time series)
+## Szymon Frelich, Bartosz Włodarski
 
 
 Terminarz prac
